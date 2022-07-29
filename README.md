@@ -5,7 +5,7 @@
 
 
 
-I'm a student in President University majoring at Information Technology since 2021. <br>
+I'm an IT 😊 <br>
 👀 I’m interested in mobile app and Web development but right now i more focus at Web development since i found myself stack in it.<br>
 🌱 I’m currently learning backend using python and php and some other framework like flask and laravel. <br>
 <!-- - 💞️ I’m looking to collaborate on ... -->
