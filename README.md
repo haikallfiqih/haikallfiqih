@@ -10,7 +10,7 @@ I'm an IT 😊 <br>
 🌱 I’m currently learning backend using python and php and some other framework like flask and laravel. <br>
 <!-- - 💞️ I’m looking to collaborate on ... -->
 📫 For more you can reach me trough my social media: <br>
-<a href="https://instagram.com/hiikalll_">
+<a href="https://instagram.com/haikallf___">
   <img align="center" src="https://img.shields.io/badge/Instagram-@haikallf___-blue" />
 </a>
 <a href="mailto:ekal.ehmm@gmail.com">
