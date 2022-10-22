@@ -11,7 +11,7 @@ I'm an IT 😊 <br>
 <!-- - 💞️ I’m looking to collaborate on ... -->
 📫 For more you can reach me trough my social media: <br>
 <a href="https://instagram.com/hiikalll_">
-  <img align="center" src="https://img.shields.io/badge/Instagram-@hiikalll_-blue" />
+  <img align="center" src="https://img.shields.io/badge/Instagram-@haikallf___-blue" />
 </a>
 <a href="mailto:ekal.ehmm@gmail.com">
   <img align="center" src="https://img.shields.io/badge/Email-ekal.ehmm@gmail.com-red" />
