@@ -5,9 +5,10 @@
 
 
 
-I'm an IT 😊 <br>
-👀 I’m interested in mobile app and Web development but right now i more focus at Web development since i found myself stack in it.<br>
-🌱 I’m currently learning backend using python and php and some other framework like flask and laravel. <br>
+An IT student currently still exploring the waves.
+🌱Laravel Developer and also MERN sometimes👀
+
+Lookingfor collaboration
 <!-- - 💞️ I’m looking to collaborate on ... -->
 📫 For more you can reach me trough my social media: <br>
 <a href="https://instagram.com/haikallf___">
