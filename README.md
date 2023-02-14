@@ -5,7 +5,7 @@
 
 
 
-An IT student currently still exploring the waves.
+An IT student currently still exploring the waves. <br>
 🌱Laravel Developer and also MERN sometimes👀
 
 Lookingfor collaboration
