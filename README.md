@@ -1,16 +1,14 @@
-<h1>👋 Hi, I’m @hiikalll</h1>
+<h1>About ME</h1>
 
 ![GitHub followers](https://img.shields.io/github/followers/hiikalll?style=social)
 <br>
 
 
+👋 Hello, I'm Haikal! I'm a passionate full-stack developer with a focus on Laravel and JavaScript. 💻
 
-An IT student currently still exploring the waves. <br>
-🌱Laravel Developer and also MERN sometimes👀
+🔥 With several years of experience in web development, I've honed my skills in building robust and scalable applications. My expertise lies in crafting elegant front-end experiences using modern JavaScript frameworks like React and Vue.js, while also harnessing the power of Laravel to develop efficient back-end solutions.
 
-Lookingfor collaboration
-<!-- - 💞️ I’m looking to collaborate on ... -->
-📫 For more you can reach me trough my social media: <br>
+📫 Let's connect! Feel free to reach out to me on GitHub or via email. I'm always open to new opportunities and collaborations. Let's build something amazing together! <br>
 <a href="https://instagram.com/haikallf___">
   <img align="center" src="https://img.shields.io/badge/Instagram-@haikallf___-blue" />
 </a>
