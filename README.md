@@ -9,7 +9,7 @@
 🔥 With several years of experience in web development, I've honed my skills in building robust and scalable applications. My expertise lies in crafting elegant front-end experiences using modern JavaScript frameworks like React and Vue.js, while also harnessing the power of Laravel to develop efficient back-end solutions.
 
 📫 Let's connect! Feel free to reach out to me on GitHub or via email. I'm always open to new opportunities and collaborations. Let's build something amazing together! <br>
-<a href="https://instagram.com/haikallf___">
+<a href="https://instagram.com/haikallfiqih">
   <img align="center" src="https://img.shields.io/badge/Instagram-@haikallfiqih-blue" />
 </a>
 <a href="mailto:ekal.ehmm@gmail.com">
