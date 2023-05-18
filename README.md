@@ -10,7 +10,7 @@
 
 📫 Let's connect! Feel free to reach out to me on GitHub or via email. I'm always open to new opportunities and collaborations. Let's build something amazing together! <br>
 <a href="https://instagram.com/haikallf___">
-  <img align="center" src="https://img.shields.io/badge/Instagram-@haikallf___-blue" />
+  <img align="center" src="https://img.shields.io/badge/Instagram-@haikallfiqih-blue" />
 </a>
 <a href="mailto:ekal.ehmm@gmail.com">
   <img align="center" src="https://img.shields.io/badge/Email-ekal.ehmm@gmail.com-red" />
