@@ -11,8 +11,10 @@ I'm a passionate full-stack developer with a focus on Laravel, JavaScript, Pytho
 
 Let's connect! Feel free to reach out to me on [GitHub](https://github.com/hiikalll) or via email. I'm always open to new opportunities and collaborations. Let's build something amazing together!
 
-[![Instagram](https://img.shields.io/badge/Instagram-%40haikallfiqih-blue)](https://instagram.com/haikallfiqih)
-[![Email](https://img.shields.io/badge/Email-ekal.ehmm%40gmail.com-red)](mailto:ekal.ehmm@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%40haikallfiqih-ff69b4?style=for-the-badge&logo=instagram)](https://instagram.com/haikallfiqih)
+[![Email](https://img.shields.io/badge/Email-ekal.ehmm%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:ekal.ehmm@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B1234567890-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/6285959561535)
+
 
 ---
 ## Technologies and Tools
