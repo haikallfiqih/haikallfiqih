@@ -5,11 +5,10 @@
 
 ## 👋 Hello, I'm Haikal!
 
-I'm a passionate full-stack developer with a focus on Laravel, JavaScript, Python, and Django.
+Winner of the "Most Likely to Break Their Keyboard" award, but also the proud maker of [Skyware Tech](mailto:withhaikal@gmail.com). Open to constructive criticism (and maybe a hug?).
 
-🔥 With several years of experience in web development, I've honed my skills in building robust and scalable applications. My expertise lies in crafting elegant front-end experiences using modern JavaScript frameworks like React and Vue.js, while also harnessing the power of Laravel and Django to develop efficient back-end solutions.
-
-Let's connect! Feel free to reach out to me on [GitHub](https://github.com/haikallfiqih) or via [email](mailto:withhaikal@gmail.com). I'm always open to new opportunities and collaborations. Let's build something amazing together!
+Hit me up for collabs or just to chat!
+<a href="https://app.daily.dev/hiikalll"><img src="https://api.daily.dev/devcards/2503dd186fe74189b27b1a2c2656d33f.png?r=z0j" width="400" alt="Haikal Fiqih's Dev Card"/></a>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%40haikallfiqih-ff69b4?style=for-the-badge&logo=instagram)](https://instagram.com/haikallfiqih)
 [![Email](https://img.shields.io/badge/Email-withhaikal%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:withhaikal@gmail.com)
