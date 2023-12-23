@@ -2,7 +2,6 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/haikallfiqih?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/haikallfiqih?style=social)
-<a href="https://app.daily.dev/hiikalll"><img src="https://api.daily.dev/devcards/2503dd186fe74189b27b1a2c2656d33f.png?r=z0j" width="200" alt="Haikal Fiqih's Dev Card"/></a>
 
 ## 👋 Hello, I'm Haikal!
 
