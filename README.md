@@ -9,7 +9,7 @@ I'm a passionate full-stack developer with a focus on Laravel, JavaScript, Pytho
 
 🔥 With several years of experience in web development, I've honed my skills in building robust and scalable applications. My expertise lies in crafting elegant front-end experiences using modern JavaScript frameworks like React and Vue.js, while also harnessing the power of Laravel and Django to develop efficient back-end solutions.
 
-Let's connect! Feel free to reach out to me on [GitHub](https://github.com/haikallfiqih) or via email. I'm always open to new opportunities and collaborations. Let's build something amazing together!
+Let's connect! Feel free to reach out to me on [GitHub](https://github.com/haikallfiqih) or via [email](mailto:withhaikal@gmail.com). I'm always open to new opportunities and collaborations. Let's build something amazing together!
 
 [![Instagram](https://img.shields.io/badge/Instagram-%40haikallfiqih-ff69b4?style=for-the-badge&logo=instagram)](https://instagram.com/haikallfiqih)
 [![Email](https://img.shields.io/badge/Email-withhaikal%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:withhaikal@gmail.com)
@@ -28,7 +28,7 @@ Let's connect! Feel free to reach out to me on [GitHub](https://github.com/haika
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haikallfiqih&show_icons=true&theme=vue) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hiikalll&layout=compact)](https://github.com/haikallfiqih/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haikallfiqih&show_icons=true&theme=vue) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haikallfiqih&layout=compact)](https://github.com/haikallfiqih/github-readme-stats)
 
 ---
 
