@@ -5,7 +5,9 @@
 
 ## 👋 Hello, I'm Haikal!
 
-Winner of the "Most Likely to Break Their Keyboard" award, but also the proud maker of [Skyware Tech](mailto:withhaikal@gmail.com). Open to constructive criticism (and maybe a hug?).
+Fullstack dev based on Indonesia🥥
+
+Currently exploite n learning javascript to the next level
 
 Hit me up for collabs or just to chat!
 
