@@ -23,14 +23,10 @@ Hit me up for collabs or just to chat!
 ![Laravel](https://img.shields.io/badge/Laravel-%E2%9D%A4-red)
 ![React](https://img.shields.io/badge/React-%E2%9D%A4-blue)
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haikallfiqih&layout=compact)](https://github.com/haikallfiqih/github-readme-stats)
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haikallfiqih&show_icons=true&theme=vue) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haikallfiqih&layout=compact)](https://github.com/haikallfiqih/github-readme-stats)
-
----
 
 
 
