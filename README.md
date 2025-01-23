@@ -14,7 +14,7 @@ Passionate coder with a love for building robust web applications. Currently lev
 
 ## 📬 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Haikal_Lutfiqih-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Haikal_Fiqih-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/haikallfiqih)
 [![Instagram](https://img.shields.io/badge/Instagram-@haikallfiqih-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/haikallfiqih)
 [![Email](https://img.shields.io/badge/Email-withhaikal@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:withhaikal@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/6285959561535)
